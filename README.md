@@ -1,2 +1,1 @@
-"#Standford online Machine Learning Assignments using MATLAB"
-"# ML_stanford" 
+"Standford online Machine Learning Assignments using MATLAB"
